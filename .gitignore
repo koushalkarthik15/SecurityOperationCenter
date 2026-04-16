@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+
+# ML models
+*.joblib
+
+# Data files
+*.csv
+*.mmdb
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Node
+node_modules/
+
+# Next.js
+.next/
+
+# Env
+.env
